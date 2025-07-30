@@ -76,7 +76,7 @@ const App = () => {
               Hi, I'm <span className="text-yellow-300">Venkata Surya Lakshmi Poduri</span>!
             </h1>
             <p className="text-xl md:text-2xl mb-8 animate-fade-in-up">
-              A passionate Software Engineer focused on building impactful and scalable solutions.
+              A passionate Computer Science student focused on building impactful and scalable software solutions.
             </p>
             <div className="flex justify-center space-x-4 animate-fade-in">
               <a
@@ -105,20 +105,20 @@ const App = () => {
               <div className="md:w-2/3 mb-8 md:mb-0">
   {/* Placeholder for profile picture. Replace with your actual photo URL */}
   <img
-    src="LinkedProfile.jpg"
+    src="ProfileSurya.jpg"
     alt="Venkata Surya Lakshmi Poduri"
     className="w-[40%] h-[40%] md:w-80 md:h-80 rounded-full mx-auto object-cover shadow-lg border-4 border-indigo-200"
   />
 </div>
               <div className="md:w-2/3 text-lg leading-relaxed text-gray-700">
                 <p className="mb-4">
-                  Hello! I'm *Venkata Surya Lakshmi Poduri*, a dedicated Software Engineer with a passion for crafting robust and efficient software solutions. My journey in technology began with a fascination for how things work, evolving into a drive to build and innovate.
+                  Hello! I'm Venkata Surya Lakshmi Poduri, a final-year B.Tech student passionate about developing scalable and data-driven solutions. With a strong foundation in Java development, I enjoy designing backend systems that are both efficient and maintainable.
                 </p>
                 <p className="mb-4">
-                  I specialize in *full-stack web development* and have experience in building modular backend functionalities, enhancing database performance, and developing deep learning systems. I thrive in collaborative environments where I can contribute to meaningful projects and continuously learn new skills.
+                  My journey into tech began with a curiosity for how systems work, which evolved into a deep interest in software engineering and data engineering. I specialize in building robust server-side applications using Java and have hands-on experience with databases.
                 </p>
                 <p>
-                  Outside of coding, I enjoy participating in hackathons and workshops, gaining exposure to real-world product challenges and collaborative software development.
+                  I'm also actively exploring the intersection of data engineering and cloud technologies, with growing skills in SQL,Beyond code, I enjoy participating in hackathons, workshops constantly pushing myself to learn and contribute to impactful projects.
                 </p>
               </div>
             </div>
